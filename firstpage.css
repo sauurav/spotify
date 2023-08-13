@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color: black;
+    height: 50px;
+    width: 100%;
+    display:flex;
+    justify-content:space-around;
+    font-size: 28px;
+    font-weight: 200;
+}
+
+.header img{
+    height: 50px;
+    border-radius: 30px;
+}
+.header a{
+    color: rgb(248, 245, 245);
+
+}
+.middle1 {
+    background-color: black;
+    height: 500px;
+    width: 1252px;
+    margin-top: 47px;
+    margin-left: 125px;
+    border-radius: 50px;
+    background-image: url(mintsong.jpg);
+}
+.middle1 a {
+    color: white;
+    font-size: 33px;
+    position: absolute;
+    margin-left: 63px;
+    margin-top: 16px;
+}
+.songItem {
+    background-color: aliceblue;
+    display: flex;
+    height: 42px;
+    width: 24%;
+    color: black;
+    margin-top: 84px;
+    position: absolute;
+    margin-left: 61px;
+    border-radius: 28px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.songItem img {
+    height: 44px;
+    border-radius: 24px;
+    margin-left: -50px;
+}
+
+.songItem1 {
+    background-color: aliceblue;
+    display: flex;
+    height: 42px;
+    width: 24%;
+    color: black;
+    margin-top: 143px;
+    position: absolute;
+    margin-left: 61px;
+    border-radius: 28px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.songItem1 img{
+    height: 44px;
+    border-radius: 24px;
+    margin-left: -50px;
+}
+.songItem2{
+    background-color: aliceblue;
+    display: flex;
+    height: 42px;
+    width: 24%;
+    color: black;
+    margin-top: 206px;
+    position: absolute;
+    margin-left: 61px;
+    border-radius: 28px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.songItem2 img{
+    height: 44px;
+    border-radius: 24px;
+    margin-left: -50px;
+}
+.songItem3{
+    background-color: aliceblue;
+    display: flex;
+    height: 42px;
+    width: 24%;
+    color: black;
+    margin-top: 270px;
+    position: absolute;
+    margin-left: 61px;
+    border-radius: 28px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.songItem3 img{
+    height: 44px;
+    border-radius: 24px;
+    margin-left: -50px;
+}
+.songItem4{
+    background-color: aliceblue;
+    display: flex;
+    height: 42px;
+    width: 24%;
+    color: black;
+    margin-top: 333px;
+    position: absolute;
+    margin-left: 61px;
+    border-radius: 28px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.songItem4 img{
+    height: 44px;
+    border-radius: 24px;
+    margin-left: -50px;
+}
+.bottom{
+    background-color: black;
+    height: 90px;
+    margin-top:42px;
+}
+#range{
+    width:100%;
+}
+.play{
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
